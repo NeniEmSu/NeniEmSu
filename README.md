@@ -1,7 +1,5 @@
 # Hi, I'm Neni Emmanuel! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="35">
 
-[Website](https://neniemsu.com/)
-
 I'm a Remote Full-Stack developer based out of Ternopil Ukraine, hoping to be a digital nomad one day.
 
 <br />
@@ -10,7 +8,7 @@ I'm a Remote Full-Stack developer based out of Ternopil Ukraine, hoping to be a 
 
 <br />
 
-- 🔭 Currently working at [ElifTech](https://www.eliftech.com/) & [Live Lingua](https://www.livelingua.com/)!
+- 🔭 Currently working at <a href="https://www.eliftech.com/" target="_blank">ElifTech</a> & <a href="https://www.livelingua.com/" target="_blank">Live Lingua</a>!
 - 🌱 I’m currently refining my SQL skills  :)
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/emmanuel-neni-a67060152/)
 - ⚡ Fun facts:
