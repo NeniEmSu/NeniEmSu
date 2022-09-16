@@ -9,7 +9,7 @@ I'm a Remote Full-Stack developer based out of Ternopil Ukraine, hoping to be a 
 <br />
 
 - 🔭 Currently working at <a href="https://www.eliftech.com/" target="_blank">ElifTech</a>!
-- 🌱 I’m currently refining my SQL skills  :)
+- 🌱 I’m currently refining my AWS skills  :)
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/emmanuel-neni-a67060152/)
 - ⚡ Fun facts:
   - I completed a 6 year General Medicine Degree.
