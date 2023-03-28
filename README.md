@@ -13,7 +13,7 @@ I'm a Remote Full-Stack developer based out of Ternopil Ukraine, hoping to be a 
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/emmanuel-neni-a67060152/)
 - ⚡ Fun facts:
   - I completed a 6 year General Medicine Degree.
-  - I still has most of my Milk teeth (Oligodontia).
+  - I still have most of my Milk teeth (Oligodontia).
 
 <br />
 <br />
