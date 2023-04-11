@@ -1,6 +1,6 @@
 # Hi, I'm Neni Emmanuel! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="35">
 
-I'm a Remote Full-Stack developer based out of Ternopil Ukraine, hoping to be a digital nomad one day.
+I'm a Remote Full-Stack developer based out of Ternopil Ukraine/Kaposvar Hungary/Geisenheim Deutschland (don't ask), hoping to be a digital nomad one day.
 
 <br />
 
