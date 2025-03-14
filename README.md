@@ -1,6 +1,6 @@
 # Hi, I'm Neni Emmanuel! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="35">
 
-I'm a remote full-stack developer based out of Darmstadt Deutschland (don't ask), and I hope to be a digital nomad one day.
+I'm a remote full-stack developer based out of Darmstadt Deutschland, and I hope to be a digital nomad one day.
 
 <br />
 
@@ -8,7 +8,7 @@ I'm a remote full-stack developer based out of Darmstadt Deutschland (don't ask)
 
 <br />
 
-- 🔭 Currently working at <a href="https://www.def-shop.com/" target="_blank">DefShop</a>!
+- 🔭 Currently working at <a href="https://www.thedigitalpanda.com/" target="_blank">The Digital Panda</a>!
 - 🌱 I’m currently refining my AWS skills  :)
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/emmanuel-neni-a67060152/)
 - ⚡ Fun facts:
