@@ -1,6 +1,6 @@
 # Hi, I'm Neni Emmanuel! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="35">
 
-I'm a Remote Full-Stack developer based out of Darmstadt Deutschland (don't ask), hoping to be a digital nomad one day.
+I'm a remote full-stack developer based out of Darmstadt Deutschland (don't ask), and I hope to be a digital nomad one day.
 
 <br />
 
@@ -14,6 +14,26 @@ I'm a Remote Full-Stack developer based out of Darmstadt Deutschland (don't ask)
 - ⚡ Fun facts:
   - I completed a 6-year General Medicine Degree.
   - I still have most of my Milk teeth (Oligodontia).
+
+<br />
+<br />
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
 
 <br />
 <br />
