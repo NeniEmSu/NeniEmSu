@@ -1,6 +1,6 @@
 # Hi, I'm Neni Emmanuel! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="35">
 
-I'm a remote full-stack developer based out of Darmstadt Germany, and I hope to be a digital nomad one day.
+I'm a full-stack Software Engineer based out of Darmstadt Germany, and a volunteer Firefighter in my free time.
 
 <br />
 
