@@ -9,11 +9,11 @@ I'm a remote full-stack developer based out of Darmstadt Germany, and I hope to 
 <br />
 
 - 🔭 Currently working at <a href="https://www.thedigitalpanda.com/" target="_blank">Walter Ludwig GmbH Wertpapierhandelsbank</a> and Freelancing at <a href="https://www.thedigitalpanda.com/" target="_blank">The Digital Panda</a>!
-- 🌱 I’m currently refining my AWS skills  :)
+- 🌱 I’m currently focusing on C#, NestJs and React/React Native.  :)
 - 💬 Hit me up on [LinkedIn](https://www.linkedin.com/in/emmanuel-neni-a67060152/)
 - ⚡ Fun facts:
   - I completed a 6-year General Medicine Degree.
-  - I still have most of my Milk teeth (Oligodontia).
+  - I still have 3 of my Milk teeth (Oligodontia).
 
 <br />
 <br />
